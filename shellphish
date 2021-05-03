@@ -1,0 +1,10 @@
+const shellphish_toolsphishing = (prefix) => { 
+
+	return `
+
+━━━━━━━━━━━━━━━━━━━━
+Shellphish –Phishing Termux 
+━━━━━━━━━━━━━━━━━━━━
+git clone https://github.com/thelinuxchoice/shellphish
+
+$ cd shellphish
